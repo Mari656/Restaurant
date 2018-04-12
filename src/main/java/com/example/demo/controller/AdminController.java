@@ -80,6 +80,6 @@ public class AdminController {
         response.setContentType(MediaType.IMAGE_JPEG_VALUE);
         IOUtils.copy(in, response.getOutputStream());
     }
-
+//ok
 }
 
